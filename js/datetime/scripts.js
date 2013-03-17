@@ -59,3 +59,18 @@ function getLastDayInMonth(year, month) {
     tmpDate.setDate(0);
     return tmpDate.getDate();
 }
+
+/**
+ * Возвращает количество секунд, прошедших с начала дня
+ * @returns {number}
+ */
+function getSecondsPassedToday() {
+    "use strict";
+    var nowDate, startDate, diff;
+    nowDate = new Date();
+    startDate = new Date(nowDate.getFullYear(), nowDate.getMonth(), nowDate.getDate());
+    diff = nowDate - startDate;
+    diff = Math.round(diff / 1000);
+    return diff;
+}
+

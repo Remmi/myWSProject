@@ -8,7 +8,7 @@
     <file path="/main.css" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363099920784" ignored="false" />
     <file path="/a.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363332803653" ignored="false" />
     <file path="/Dummy.txt" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363501515439" ignored="false" />
-    <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363512226271" ignored="false" />
+    <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363512912455" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="scripts.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/datetime/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="28" selection-start="885" selection-end="885" vertical-scroll-proportion="0.46985447">
+            <state line="63" column="55" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.43451142">
               <folding />
             </state>
           </provider>
@@ -482,7 +482,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/datetime/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="28" selection-start="885" selection-end="885" vertical-scroll-proportion="0.46985447">
+        <state line="63" column="55" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.43451142">
           <folding />
         </state>
       </provider>
