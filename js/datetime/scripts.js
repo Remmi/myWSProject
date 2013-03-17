@@ -74,3 +74,12 @@ function getSecondsPassedToday() {
     return diff;
 }
 
+/**
+ * Возвращает количество секунд, оставшихся до конца дня
+ * @returns {number}
+ */
+function getSecondsLeftToday() {
+    "use strict";
+    return (86400 - getSecondsPassedToday());
+}
+
