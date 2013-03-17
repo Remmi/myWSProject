@@ -16,5 +16,5 @@
 > 4.7. Преобразования типов<br>
  
 **5. Функции и замыкания**<br>
-> 5.1. Функция - это значение
-> 5.2. Function Declaration и Function Expression
+> 5.1. Функция - это значение<br>
+> 5.2. Function Declaration и Function Expression<br>
