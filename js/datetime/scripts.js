@@ -46,8 +46,16 @@ function getNDaysAgo(date, n) {
     return date;
 }
 
-function getLastDayInMonth(year, month)
-{
+/**
+ * Возвращает последний день месяца
+ * @param year
+ * @param month
+ * @returns {number}
+ */
+function getLastDayInMonth(year, month) {
     "use strict";
-
+    var tmpDate;
+    tmpDate = new Date(year, month + 1);
+    tmpDate.setDate(0);
+    return tmpDate.getDate();
 }

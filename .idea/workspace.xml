@@ -8,7 +8,7 @@
     <file path="/main.css" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363099920784" ignored="false" />
     <file path="/a.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363332803653" ignored="false" />
     <file path="/Dummy.txt" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363501515439" ignored="false" />
-    <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363508441392" ignored="false" />
+    <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363512226271" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="scripts.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/datetime/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="4" selection-start="913" selection-end="913" vertical-scroll-proportion="0.92931396">
+            <state line="49" column="28" selection-start="885" selection-end="885" vertical-scroll-proportion="0.46985447">
               <folding />
             </state>
           </provider>
@@ -295,7 +295,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="780" extended-state="1" />
+    <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -482,7 +482,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/datetime/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="4" selection-start="913" selection-end="913" vertical-scroll-proportion="0.92931396">
+        <state line="49" column="28" selection-start="885" selection-end="885" vertical-scroll-proportion="0.46985447">
           <folding />
         </state>
       </provider>
