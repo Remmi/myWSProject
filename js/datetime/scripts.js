@@ -83,3 +83,24 @@ function getSecondsLeftToday() {
     return (86400 - getSecondsPassedToday());
 }
 
+/**
+ * Возвращает дату в формате дд.мм.гг
+ * @param date
+ * @returns {string}
+ */
+function formatDate(date) {
+    "use strict";
+    var strResult, tmpMonth, tmpYear;
+    // поскольку счёт месяцев идёт с нуля, увеличим его на 1
+    tmpMonth = date.getMonth() + 1;
+    // добавляем ведущий ноль, если нужно
+    if (tmpMonth < 10) {
+        tmpMonth = "0" + tmpMonth.toString();
+    }
+    // получаем текущий год и отбрасываем первые две цифры
+    tmpYear = date.getFullYear();
+    tmpYear = tmpYear % 100;
+    strResult = date.getDate() + '.' + tmpMonth + '.' + tmpYear;
+    return strResult;
+}
+
