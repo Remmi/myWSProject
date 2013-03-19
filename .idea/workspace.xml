@@ -4,11 +4,15 @@
     <list default="true" id="1a7701ce-921e-42e1-b89b-54d565036853" name="Default" comment="" />
     <ignored path="myWSProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363506465020" ignored="false" />
+    <file path="/index.html" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363677140346" ignored="false" />
     <file path="/main.css" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363099920784" ignored="false" />
     <file path="/a.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363332803653" ignored="false" />
-    <file path="/Dummy.txt" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363501515439" ignored="false" />
-    <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363514524778" ignored="false" />
+    <file path="/Dummy.txt" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363677056860" ignored="false" />
+    <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363601073542" ignored="false" />
+    <file path="/function.expression.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363604652710" ignored="false" />
+    <file path="/named.function.expression.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363606688675" ignored="false" />
+    <file path="/global.object.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363610984253" ignored="false" />
+    <file path="/closures.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363625078214" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +35,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="39" selection-start="269" selection-end="269" vertical-scroll-proportion="-5.8846154">
+            <state line="16" column="47" selection-start="589" selection-end="589" vertical-scroll-proportion="-10.461538">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scripts.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/datetime/scripts.js">
+      <file leaf-file-name="closures.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/functions/closures.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="58" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.64656967">
+            <state line="43" column="13" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
+      <file leaf-file-name="closures.usage.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/functions/closures.usage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+            <state line="7" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.056951422">
               <folding />
             </state>
           </provider>
@@ -77,8 +81,14 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/js/array.methods/scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/datetime/scripts.js" />
+        <option value="$PROJECT_DIR$/js/functions/scripts.js" />
+        <option value="$PROJECT_DIR$/js/functions/function.expression.js" />
+        <option value="$PROJECT_DIR$/js/functions/named.function.expression.js" />
+        <option value="$PROJECT_DIR$/js/functions/global.object.js" />
+        <option value="$PROJECT_DIR$/js/functions/closures.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/functions/closures.usage.js" />
       </list>
     </option>
   </component>
@@ -130,6 +140,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="myWSProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWSProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWSProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -302,7 +330,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.8133971" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24271844" sideWeight="0.81380415" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18619582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18619582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -389,46 +417,14 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="138" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/array.methods/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="37" selection-start="92" selection-end="92" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="58" column="1" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="138" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/array.methods/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="1" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -440,9 +436,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -454,35 +448,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/array.methods/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="8" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.5051975">
+        <state line="150" column="8" selection-start="2609" selection-end="2609" vertical-scroll-proportion="0.5051975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.07068607" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/closures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="13" selection-start="1022" selection-end="1022" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/functions/global.object.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="39" selection-start="269" selection-end="269" vertical-scroll-proportion="-5.8846154">
+        <state line="11" column="65" selection-start="341" selection-end="341" vertical-scroll-proportion="0.17708333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/named.function.expression.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="4" selection-start="838" selection-end="838" vertical-scroll-proportion="0.74371856">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/function.expression.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="4" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.80067">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/function.declaration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="0" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.8291457">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/datetime/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="58" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.64656967">
+        <state line="99" column="58" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.62981576">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="47" selection-start="589" selection-end="589" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/closures.usage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.056951422">
           <folding />
         </state>
       </provider>
