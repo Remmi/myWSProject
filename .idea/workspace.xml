@@ -4,15 +4,21 @@
     <list default="true" id="1a7701ce-921e-42e1-b89b-54d565036853" name="Default" comment="" />
     <ignored path="myWSProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363677140346" ignored="false" />
+    <file path="/index.html" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363952719991" ignored="false" />
     <file path="/main.css" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363099920784" ignored="false" />
     <file path="/a.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363332803653" ignored="false" />
-    <file path="/Dummy.txt" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363677056860" ignored="false" />
+    <file path="/Dummy.txt" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363943295813" ignored="false" />
     <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363601073542" ignored="false" />
     <file path="/function.expression.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363604652710" ignored="false" />
     <file path="/named.function.expression.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363606688675" ignored="false" />
     <file path="/global.object.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363610984253" ignored="false" />
     <file path="/closures.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363625078214" ignored="false" />
+    <file path="/closures.usage.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363946049655" ignored="false" />
+    <file path="/sum.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363946452169" ignored="false" />
+    <file path="/filter.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363949291511" ignored="false" />
+    <file path="/buffer.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363950930297" ignored="false" />
+    <file path="/donkey.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363951646033" ignored="false" />
+    <file path="/shooter.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363955401084" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +41,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="47" selection-start="589" selection-end="589" vertical-scroll-proportion="-10.461538">
+            <state line="16" column="74" selection-start="659" selection-end="659" vertical-scroll-proportion="-10.461538">
               <folding />
             </state>
           </provider>
@@ -50,10 +56,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="closures.usage.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="closures.usage.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/functions/closures.usage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.056951422">
+            <state line="124" column="21" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/filter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="73" selection-start="1687" selection-end="1687" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buffer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/buffer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="10" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="donkey.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/donkey.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="72" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shooter.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/shooter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="60" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.25779626">
               <folding />
             </state>
           </provider>
@@ -87,8 +131,13 @@
         <option value="$PROJECT_DIR$/js/functions/named.function.expression.js" />
         <option value="$PROJECT_DIR$/js/functions/global.object.js" />
         <option value="$PROJECT_DIR$/js/functions/closures.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/functions/closures.usage.js" />
+        <option value="$PROJECT_DIR$/js/functions/closures.usage/sum.js" />
+        <option value="$PROJECT_DIR$/js/functions/closures.usage/filter.js" />
+        <option value="$PROJECT_DIR$/js/functions/closures.usage/buffer.js" />
+        <option value="$PROJECT_DIR$/js/functions/closures.usage/donkey.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/functions/closures.usage/shooter.js" />
       </list>
     </option>
   </component>
@@ -175,6 +224,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="closures.usage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWSProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWSProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="datetime" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -227,8 +298,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -323,18 +394,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="780" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.8133971" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24271844" sideWeight="0.81380415" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18619582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18619582" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -417,35 +488,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/array.methods/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="1" selection-start="1098" selection-end="1098" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="18" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="90" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="29" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" />
@@ -470,16 +512,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/functions/global.object.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="65" selection-start="341" selection-end="341" vertical-scroll-proportion="0.17708333">
-          <folding />
-        </state>
+        <state line="11" column="65" selection-start="341" selection-end="341" vertical-scroll-proportion="0.17708333" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/functions/named.function.expression.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="4" selection-start="838" selection-end="838" vertical-scroll-proportion="0.74371856">
-          <folding />
-        </state>
+        <state line="36" column="4" selection-start="838" selection-end="838" vertical-scroll-proportion="0.74371856" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/functions/function.expression.js">
@@ -498,21 +536,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/datetime/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="58" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.62981576">
+        <state line="99" column="58" selection-start="2124" selection-end="2124" vertical-scroll-proportion="0.62981576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="29" selection-start="190" selection-end="190" vertical-scroll-proportion="0.21205822">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/filter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="47" selection-start="589" selection-end="589" vertical-scroll-proportion="-10.461538">
+        <state line="74" column="73" selection-start="1687" selection-end="1687" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/functions/closures.usage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="100" selection-end="100" vertical-scroll-proportion="0.056951422">
+        <state line="124" column="21" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/buffer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="10" selection-start="511" selection-end="511" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/donkey.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="72" selection-start="904" selection-end="904" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="74" selection-start="659" selection-end="659" vertical-scroll-proportion="-10.461538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/shooter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="60" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.25779626">
           <folding />
         </state>
       </provider>
