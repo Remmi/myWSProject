@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a7701ce-921e-42e1-b89b-54d565036853" name="Default" comment="" />
+    <list id="1a7701ce-921e-42e1-b89b-54d565036853" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list default="true" id="4ab83829-a1ce-4301-be2c-351b1bdfb483" name="Формат JSON" comment="JSON, JSON.stringify, JSON.parse и производные">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.eval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.exception.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.security.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.team.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="myWSProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1364407407265" ignored="false" />
+    <file path="/index.html" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364845038385" ignored="false" />
     <file path="/main.css" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363099920784" ignored="false" />
     <file path="/a.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363332803653" ignored="false" />
-    <file path="/Dummy.txt" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1364535532667" ignored="false" />
+    <file path="/Dummy.txt" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364801780512" ignored="false" />
     <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363601073542" ignored="false" />
     <file path="/function.expression.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363604652710" ignored="false" />
     <file path="/named.function.expression.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363606688675" ignored="false" />
@@ -15,7 +28,7 @@
     <file path="/closures.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363625078214" ignored="false" />
     <file path="/closures.usage.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363946049655" ignored="false" />
     <file path="/sum.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1364365237401" ignored="false" />
-    <file path="/filter.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363949291511" ignored="false" />
+    <file path="/filter.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364626253328" ignored="false" />
     <file path="/buffer.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363950930297" ignored="false" />
     <file path="/donkey.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363951646033" ignored="false" />
     <file path="/shooter.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363955401084" ignored="false" />
@@ -62,6 +75,26 @@
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1364535534217" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xhtml1-transitional.xsd" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1364535534227" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xhtml1-strict.xsd" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1364535534228" ignored="false" />
+    <file path="/static.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1364588609938" ignored="false" />
+    <file path="/fabrique.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364591479929" ignored="false" />
+    <file path="/for.each.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364625627151" ignored="false" />
+    <file path="/map.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364673125659" ignored="false" />
+    <file path="/every.some.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364676944664" ignored="false" />
+    <file path="/reduce.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364679531211" ignored="false" />
+    <file path="/get.sums.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364680125720" ignored="false" />
+    <file path="/eval.example.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364710919288" ignored="false" />
+    <file path="/eval.local.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364711768012" ignored="false" />
+    <file path="/eval.global.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364713293454" ignored="false" />
+    <file path="/eval.function.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364720419457" ignored="false" />
+    <file path="/eval.calc.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364720802226" ignored="false" />
+    <file path="/json.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364798007329" ignored="false" />
+    <file path="/json.serialize.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364798548142" ignored="false" />
+    <file path="/json.exception.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364801371019" ignored="false" />
+    <file path="/json.style.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364802278908" ignored="false" />
+    <file path="/json.parse.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364824539287" ignored="false" />
+    <file path="/json.eval.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364832817112" ignored="false" />
+    <file path="/json.security.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364844305893" ignored="false" />
+    <file path="/json.team.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364846277345" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,29 +114,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="53" selection-start="2130" selection-end="2130" vertical-scroll-proportion="0.48114902">
+            <state line="69" column="59" selection-start="3403" selection-end="3403" vertical-scroll-proportion="-7.1923075">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="set.timeout.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/timers/set.timeout.js">
+      <file leaf-file-name="json.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/json/json.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="10" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="25" column="14" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="set.interval.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/timers/set.interval.js">
+      <file leaf-file-name="json.serialize.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/json/json.serialize.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="71" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="27" column="29" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="json.exception.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/json/json.exception.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="40" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="json.style.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/json/json.style.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="16" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="json.parse.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/json/json.parse.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="57" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="json.eval.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/json/json.eval.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="27" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="json.security.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/json/json.security.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="36" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="json.team.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/additional/json/json.team.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="26" selection-start="545" selection-end="545" vertical-scroll-proportion="0.62534434">
+              <folding>
+                <element signature="e#0#98#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,8 +219,20 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Remmi &lt;rboykov@gmail..." />
+        <option value="Roman Boykov &lt;rboykov@gmail..." />
+        <option value="Roman Boykov &lt;rboykov@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -127,22 +242,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/types/objects.conversion/examples/example01.js" />
-        <option value="$PROJECT_DIR$/js/types/objects.conversion/examples/example02.js" />
-        <option value="$PROJECT_DIR$/js/types/objects.conversion/examples/example03.js" />
-        <option value="$PROJECT_DIR$/js/types/objects.conversion/sum.js" />
-        <option value="$PROJECT_DIR$/calc.html" />
-        <option value="$PROJECT_DIR$/js/types/objects.conversion/test.types.js" />
-        <option value="$PROJECT_DIR$/js/types/type.detection/examples/typeof.js" />
-        <option value="$PROJECT_DIR$/js/types/type.detection/examples/class.js" />
-        <option value="$PROJECT_DIR$/js/types/type.detection/examples/duck.typing.js" />
-        <option value="$PROJECT_DIR$/js/types/type.detection/examples/user.objects.js" />
-        <option value="$PROJECT_DIR$/js/types/type.detection/examples/polymorph.js" />
-        <option value="$PROJECT_DIR$/js/types/type.detection/output.date.js" />
-        <option value="$PROJECT_DIR$/js/additional/timers/set.timeout/set.timeout.js" />
+        <option value="$PROJECT_DIR$/js/additional/array.checkout/reduce.js" />
+        <option value="$PROJECT_DIR$/js/additional/array.checkout/get.sums.js" />
+        <option value="$PROJECT_DIR$/js/additional/eval/eval.example.js" />
+        <option value="$PROJECT_DIR$/js/additional/eval/eval.local.js" />
+        <option value="$PROJECT_DIR$/js/additional/eval/eval.global.js" />
+        <option value="$PROJECT_DIR$/js/additional/eval/eval.function.js" />
+        <option value="$PROJECT_DIR$/js/additional/eval/eval.calc.js" />
+        <option value="$PROJECT_DIR$/js/additional/json/json.js" />
+        <option value="$PROJECT_DIR$/js/additional/json/json.serialize.js" />
+        <option value="$PROJECT_DIR$/js/additional/json/json.exception.js" />
+        <option value="$PROJECT_DIR$/js/additional/json/json.style.js" />
+        <option value="$PROJECT_DIR$/js/additional/json/json.parse.js" />
+        <option value="$PROJECT_DIR$/js/additional/json/json.eval.js" />
+        <option value="$PROJECT_DIR$/js/additional/json/json.security.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/additional/timers/set.timeout.js" />
-        <option value="$PROJECT_DIR$/js/additional/timers/set.interval.js" />
+        <option value="$PROJECT_DIR$/js/additional/json/json.team.js" />
       </list>
     </option>
   </component>
@@ -159,7 +274,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -178,7 +293,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -228,8 +342,26 @@
               <option name="myItemId" value="additional" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="timers" />
+              <option name="myItemId" value="myWSProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myWSProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="additional" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -249,6 +381,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,7 +393,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/calc.html" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="157" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="831" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="832" />
@@ -355,9 +488,31 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="1a7701ce-921e-42e1-b89b-54d565036853" name="Default" comment="" />
+      <changelist id="4ab83829-a1ce-4301-be2c-351b1bdfb483" name="Фабричные методы" comment="Всякое разное" />
       <created>1363077229841</created>
       <updated>1363077229841</updated>
     </task>
+    <task id="LOCAL-00001" summary="Аминь">
+      <created>1364588935623</created>
+      <updated>1364588935624</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Всякое разное">
+      <created>1364591855390</created>
+      <updated>1364591855390</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Перебор массива: forEach, filter">
+      <created>1364626640129</created>
+      <updated>1364626640129</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Перебор массива: forEach, filter, map, reduce">
+      <created>1364680291289</created>
+      <updated>1364680291289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Запуск кода из строки: eval и new Function()">
+      <created>1364721781045</created>
+      <updated>1364721781045</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -384,10 +539,10 @@
     <frame x="-8" y="2" width="1371" height="766" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32676518" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32676518" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3234811" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924925" sideWeight="0.6502463" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.243994" sideWeight="0.6502463" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.243994" sideWeight="0.6732348" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3497537" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295796" sideWeight="0.65139115" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32676518" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -397,6 +552,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -444,7 +600,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Запуск кода из строки: eval и new Function()" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -458,6 +614,11 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Аминь" />
+    <MESSAGE value="Всякое разное" />
+    <MESSAGE value="Перебор массива: forEach, filter" />
+    <MESSAGE value="Перебор массива: forEach, filter, map, reduce" />
+    <MESSAGE value="Запуск кода из строки: eval и new Function()" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -475,89 +636,123 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/types/objects.conversion/examples/example02.js">
+    <entry file="file://$PROJECT_DIR$/js/additional/array.checkout/map.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="61" selection-start="956" selection-end="956" vertical-scroll-proportion="0.0" />
+        <state line="16" column="17" selection-start="331" selection-end="331" vertical-scroll-proportion="0.15885417" />
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+    <entry file="file://$PROJECT_DIR$/js/additional/array.checkout/every.some.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="22" selection-start="3196" selection-end="3200" vertical-scroll-proportion="0.7768116" />
+        <state line="29" column="39" selection-start="641" selection-end="641" vertical-scroll-proportion="0.6015625" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/objects.conversion/examples/example03.js">
+    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.example.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="23" selection-start="1888" selection-end="1888" vertical-scroll-proportion="0.0" />
+        <state line="23" column="30" selection-start="484" selection-end="484" vertical-scroll-proportion="0.6891892" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/objects.conversion/sum.js">
+    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.local.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="11" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" />
+        <state line="26" column="55" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calc.html">
+    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.global.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="25" selection-start="1574" selection-end="1574" vertical-scroll-proportion="-6.6923075" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/functions/closures.usage/sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/objects.conversion/types.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="5" selection-start="229" selection-end="229" vertical-scroll-proportion="0.48825064" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/type.detection/examples/typeof.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="216" selection-end="216" vertical-scroll-proportion="0.1457976" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/type.detection/examples/polymorph.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="26" selection-start="582" selection-end="582" vertical-scroll-proportion="0.69982845" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/type.detection/output.date.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="9" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.52487135" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/type.detection/examples/class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="22" selection-start="1295" selection-end="1295" vertical-scroll-proportion="0.9622642" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/type.detection/examples/duck.typing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="46" selection-start="816" selection-end="816" vertical-scroll-proportion="0.7667239" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/types/type.detection/examples/user.objects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="66" selection-start="794" selection-end="794" vertical-scroll-proportion="0.75814754" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/timers/set.interval.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="71" selection-start="493" selection-end="493" vertical-scroll-proportion="0.0">
+        <state line="28" column="0" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/timers/set.timeout.js">
+    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.function.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="10" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+        <state line="30" column="51" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.calc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="42" selection-start="381" selection-end="381" vertical-scroll-proportion="0.2915952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="14" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.serialize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="29" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="16" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="57" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.exception.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="40" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.eval.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="27" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.security.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="36" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="53" selection-start="2130" selection-end="2130" vertical-scroll-proportion="0.48114902">
+        <state line="69" column="59" selection-start="3403" selection-end="3403" vertical-scroll-proportion="-7.1923075">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.team.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="26" selection-start="545" selection-end="545" vertical-scroll-proportion="0.62534434">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
