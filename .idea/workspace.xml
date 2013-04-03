@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list id="1a7701ce-921e-42e1-b89b-54d565036853" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <list default="true" id="4ab83829-a1ce-4301-be2c-351b1bdfb483" name="Формат JSON" comment="JSON, JSON.stringify, JSON.parse и производные">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.eval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.exception.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.security.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/json/json.team.js" />
+    <list id="1a7701ce-921e-42e1-b89b-54d565036853" name="Default" comment="" />
+    <list default="true" id="4ab83829-a1ce-4301-be2c-351b1bdfb483" name="Перехват ошибок, try..catch" comment="Типы ошибок, генерация ошибок">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/exception/error.generation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/exception/error.object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/exception/error.throw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/exception/error.types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/exception/finally.section.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/exception/inserted.calls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/additional/exception/try.catch.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="myWSProject.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364845038385" ignored="false" />
+    <file path="/index.html" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364911095355" ignored="false" />
     <file path="/main.css" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363099920784" ignored="false" />
     <file path="/a.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363332803653" ignored="false" />
-    <file path="/Dummy.txt" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364801780512" ignored="false" />
+    <file path="/Dummy.txt" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364882494433" ignored="false" />
     <file path="/scripts.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363601073542" ignored="false" />
     <file path="/function.expression.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363604652710" ignored="false" />
     <file path="/named.function.expression.js" changelist="1a7701ce-921e-42e1-b89b-54d565036853" time="1363606688675" ignored="false" />
@@ -95,6 +93,13 @@
     <file path="/json.eval.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364832817112" ignored="false" />
     <file path="/json.security.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364844305893" ignored="false" />
     <file path="/json.team.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364846277345" ignored="false" />
+    <file path="/error.types.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364885109185" ignored="false" />
+    <file path="/try.catch.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364885484159" ignored="false" />
+    <file path="/error.object.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364903871192" ignored="false" />
+    <file path="/finally.section.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364906261029" ignored="false" />
+    <file path="/error.generation.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364907389181" ignored="false" />
+    <file path="/error.throw.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364910610042" ignored="false" />
+    <file path="/inserted.calls.js" changelist="4ab83829-a1ce-4301-be2c-351b1bdfb483" time="1364969846555" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,16 +122,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="59" selection-start="3403" selection-end="3403" vertical-scroll-proportion="-7.1923075">
+            <state line="79" column="58" selection-start="3945" selection-end="3945" vertical-scroll-proportion="-7.8461537">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="json.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/json/json.js">
+      <file leaf-file-name="finally.section.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/exception/finally.section.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="14" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
+            <state line="50" column="8" selection-start="1695" selection-end="1695" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#98#0" expanded="false" />
               </folding>
@@ -134,10 +139,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="json.serialize.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/json/json.serialize.js">
+      <file leaf-file-name="error.generation.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/exception/error.generation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="29" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
+            <state line="55" column="13" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#98#0" expanded="false" />
               </folding>
@@ -145,10 +150,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="json.exception.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/json/json.exception.js">
+      <file leaf-file-name="error.throw.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/additional/exception/error.throw.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="40" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.0">
+            <state line="45" column="57" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.30989584">
               <folding>
                 <element signature="e#0#98#0" expanded="false" />
               </folding>
@@ -156,10 +161,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="json.style.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/json/json.style.js">
+      <file leaf-file-name="inserted.calls.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/exception/inserted.calls.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="16" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
+            <state line="37" column="64" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#98#0" expanded="false" />
               </folding>
@@ -167,10 +172,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="json.parse.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/json/json.parse.js">
+      <file leaf-file-name="error.types.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/exception/error.types.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="57" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0">
+            <state line="37" column="33" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="try.catch.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/exception/try.catch.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="65" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#98#0" expanded="false" />
               </folding>
@@ -178,32 +192,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="json.eval.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/json/json.eval.js">
+      <file leaf-file-name="error.object.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/additional/exception/error.object.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="27" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#98#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="json.security.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/additional/json/json.security.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="36" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#0#98#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="json.team.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/additional/json/json.team.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="26" selection-start="545" selection-end="545" vertical-scroll-proportion="0.62534434">
+            <state line="46" column="12" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#0#98#0" expanded="false" />
               </folding>
@@ -242,13 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/additional/array.checkout/reduce.js" />
-        <option value="$PROJECT_DIR$/js/additional/array.checkout/get.sums.js" />
-        <option value="$PROJECT_DIR$/js/additional/eval/eval.example.js" />
-        <option value="$PROJECT_DIR$/js/additional/eval/eval.local.js" />
-        <option value="$PROJECT_DIR$/js/additional/eval/eval.global.js" />
-        <option value="$PROJECT_DIR$/js/additional/eval/eval.function.js" />
-        <option value="$PROJECT_DIR$/js/additional/eval/eval.calc.js" />
         <option value="$PROJECT_DIR$/js/additional/json/json.js" />
         <option value="$PROJECT_DIR$/js/additional/json/json.serialize.js" />
         <option value="$PROJECT_DIR$/js/additional/json/json.exception.js" />
@@ -256,8 +241,15 @@
         <option value="$PROJECT_DIR$/js/additional/json/json.parse.js" />
         <option value="$PROJECT_DIR$/js/additional/json/json.eval.js" />
         <option value="$PROJECT_DIR$/js/additional/json/json.security.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/additional/json/json.team.js" />
+        <option value="$PROJECT_DIR$/js/additional/exception/error.types.js" />
+        <option value="$PROJECT_DIR$/js/additional/exception/try.catch.js" />
+        <option value="$PROJECT_DIR$/js/additional/exception/error.object.js" />
+        <option value="$PROJECT_DIR$/js/additional/exception/finally.section.js" />
+        <option value="$PROJECT_DIR$/js/additional/exception/error.generation.js" />
+        <option value="$PROJECT_DIR$/js/additional/exception/error.throw.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/additional/exception/inserted.calls.js" />
       </list>
     </option>
   </component>
@@ -361,7 +353,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="json" />
+              <option name="myItemId" value="exception" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -537,9 +529,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="2" width="1371" height="766" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32676518" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32676518" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3234811" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924925" sideWeight="0.6502463" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.243994" sideWeight="0.6732348" order="0" side_tool="false" content_ui="combo" />
@@ -636,92 +628,6 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/additional/array.checkout/map.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="17" selection-start="331" selection-end="331" vertical-scroll-proportion="0.15885417" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/array.checkout/every.some.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="39" selection-start="641" selection-end="641" vertical-scroll-proportion="0.6015625" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.example.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="30" selection-start="484" selection-end="484" vertical-scroll-proportion="0.6891892" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.local.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="55" selection-start="600" selection-end="600" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.global.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.function.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="51" selection-start="699" selection-end="699" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/eval/eval.calc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="381" selection-end="381" vertical-scroll-proportion="0.2915952">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/json/json.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="14" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#98#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/json/json.serialize.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="29" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#98#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/json/json.style.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="16" selection-start="527" selection-end="527" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#98#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/json/json.parse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="57" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#98#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/json/json.exception.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="40" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#98#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/additional/json/json.eval.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="27" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0">
@@ -731,9 +637,106 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.team.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="22" selection-start="613" selection-end="613" vertical-scroll-proportion="0.7239583">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/additional/json/json.security.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="36" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
+        <state line="33" column="36" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.6458333">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="57" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.30989584">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="16" selection-start="527" selection-end="527" vertical-scroll-proportion="0.3359375">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.exception.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="40" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.7864583">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.serialize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="29" selection-start="544" selection-end="544" vertical-scroll-proportion="0.43229166">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/json/json.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="14" selection-start="473" selection-end="473" vertical-scroll-proportion="0.6979167">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/exception/try.catch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="65" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/exception/error.object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="12" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/exception/error.generation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="13" selection-start="1517" selection-end="1517" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/exception/error.types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="33" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/exception/finally.section.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="8" selection-start="1695" selection-end="1695" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#98#0" expanded="false" />
           </folding>
@@ -742,14 +745,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="59" selection-start="3403" selection-end="3403" vertical-scroll-proportion="-7.1923075">
+        <state line="79" column="58" selection-start="3945" selection-end="3945" vertical-scroll-proportion="-7.8461537">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/additional/json/json.team.js">
+    <entry file="file://$PROJECT_DIR$/js/additional/exception/inserted.calls.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="26" selection-start="545" selection-end="545" vertical-scroll-proportion="0.62534434">
+        <state line="37" column="64" selection-start="993" selection-end="993" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#98#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/additional/exception/error.throw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="57" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.30989584">
           <folding>
             <element signature="e#0#98#0" expanded="false" />
           </folding>
